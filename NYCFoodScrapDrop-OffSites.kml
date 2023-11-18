@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NYC Food Scrap Drop-Off Sites</name>
+    <description>Food scraps can be turned into useful compost that helps make NYC green. You can take food scraps for composting to drop-off sites located throughout the five boroughs.</description>
+    <NetworkLink>
+      <name>NYC Food Scrap Drop-Off Sites</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1Dudc_MgiFRdei0i0H06dgA4N0EWs-3vC]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
